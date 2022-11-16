@@ -1,3 +1,10 @@
+// nuxt.config
+export default {
+  buildModules: [
+    'nuxt-vite'
+  ]
+}
+
 module.exports = {
   /*
   ** Headers of the page
@@ -36,4 +43,3 @@ module.exports = {
     }
   }
 }
-
