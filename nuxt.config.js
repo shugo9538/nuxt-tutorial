@@ -1,7 +1,8 @@
 // nuxt.config
 export default {
   buildModules: [
-    'nuxt-vite'
+    'nuxt-vite',
+    '@nuxtjs/vuetify',
   ],
   css: ["@/assets/scss/global.scss"],
   vite: {
